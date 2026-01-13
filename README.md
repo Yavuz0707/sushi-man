@@ -802,37 +802,7 @@ chore: Diğer değişiklikler
 
 ## 🐛 Bilinen Sorunlar
 
-Şu anda bilinen kritik bir sorun bulunmamaktadır. Bir sorun tespit ederseniz lütfen [Issues](https://github.com/kullaniciadi/SushiMan/issues) sayfasından bildirin.
-
----
-
-## 📄 Lisans
-
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakınız.
-
-```
-MIT License
-
-Copyright (c) 2026 SushiMan
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-```
+Şu anda bilinen kritik bir sorun bulunmamaktadır. Bir sorun tespit ederseniz lütfen [Issues](https://github.com/Yavuz0707/sushi-man/issues) sayfasından bildirin.
 
 ---
 
@@ -847,7 +817,7 @@ SOFTWARE.
 Sorularınız için:
 - 📧 Email: [your-email@example.com](mailto:your-email@example.com)
 - 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-profile)
-- 🐙 GitHub: [@kullaniciadi](https://github.com/kullaniciadi)
+- 🐙 GitHub: [@Yavuz0707](https://github.com/Yavuz0707)
 
 ---
 
