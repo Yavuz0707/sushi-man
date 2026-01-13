@@ -1,0 +1,88 @@
+# Sample Products Data for Firestore
+# You can import this data to your Firestore database
+
+# Run this as a one-time setup script or add products via Admin Panel
+
+Sample Products Collection:
+
+1. Salmon Nigiri
+- name: "Salmon Nigiri"
+- price: 89.99
+- imagePath: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=800"
+- rating: 4.8
+- description: "Taze somonlu geleneksel nigiri. En taze somon dilimi ile özenle hazırlanmış pirinç üzerinde sunulur."
+- category: "Nigiri"
+- ingredients: ["Salmon", "Pirinç", "Wasabi"]
+- isPopular: true
+
+2. Tuna Nigiri
+- name: "Tuna Nigiri"
+- price: 95.99
+- imagePath: "https://images.unsplash.com/photo-1564489970-80e4562038c2?w=800"
+- rating: 4.7
+- description: "Premium orkinos balığı ile hazırlanan özel nigiri."
+- category: "Nigiri"
+- ingredients: ["Tuna", "Pirinç", "Wasabi"]
+- isPopular: true
+
+3. California Maki
+- name: "California Maki"
+- price: 75.50
+- imagePath: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=800"
+- rating: 4.6
+- description: "Avokado, yengeç ve salatalık ile klasik California roll."
+- category: "Maki"
+- ingredients: ["Avokado", "Yengeç", "Salatalık", "Nori", "Pirinç"]
+- isPopular: true
+
+4. Spicy Tuna Maki
+- name: "Spicy Tuna Maki"
+- price: 85.00
+- imagePath: "https://images.unsplash.com/photo-1617093727343-374698b1b08d?w=800"
+- rating: 4.9
+- description: "Baharatlı ton balığı ile hazırlanan özel maki rulosu."
+- category: "Maki"
+- ingredients: ["Tuna", "Acı Sos", "Avokado", "Nori", "Pirinç"]
+- isPopular: false
+
+5. Salmon Sashimi
+- name: "Salmon Sashimi"
+- price: 120.00
+- imagePath: "https://images.unsplash.com/photo-1617196034796-73dfa7b1fd56?w=800"
+- rating: 4.9
+- description: "En taze somon dilimlerinden oluşan geleneksel sashimi."
+- category: "Sashimi"
+- ingredients: ["Salmon", "Wasabi", "Ginger"]
+- isPopular: true
+
+6. Mix Sashimi
+- name: "Mix Sashimi"
+- price: 145.00
+- imagePath: "https://images.unsplash.com/photo-1611143669185-af224c5e3252?w=800"
+- rating: 4.8
+- description: "Somon, ton ve levrek karışımı premium sashimi."
+- category: "Sashimi"
+- ingredients: ["Salmon", "Tuna", "Sea Bass", "Wasabi", "Ginger"]
+- isPopular: false
+
+7. Sushi Lover Set
+- name: "Sushi Lover Set"
+- price: 299.99
+- imagePath: "https://images.unsplash.com/photo-1579584425555-c3ce17fd4351?w=800"
+- rating: 5.0
+- description: "16 parça nigiri, 12 parça maki ve 8 parça sashimi içeren zengin set."
+- category: "Setler"
+- ingredients: ["Salmon", "Tuna", "Avokado", "Nori", "Pirinç", "Wasabi"]
+- isPopular: true
+
+8. Family Set
+- name: "Family Set"
+- price: 449.99
+- imagePath: "https://images.unsplash.com/photo-1583623025817-d180a2221d0a?w=800"
+- rating: 4.9
+- description: "24 parça nigiri, 24 parça maki ile 4 kişilik aile seti."
+- category: "Setler"
+- ingredients: ["Salmon", "Tuna", "Shrimp", "Avokado", "Nori", "Pirinç"]
+- isPopular: true
+
+Note: Update image URLs with actual product images before production use.

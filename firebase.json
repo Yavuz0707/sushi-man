@@ -1,0 +1,47 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "sushi-man-77682",
+          "appId": "1:194502033683:android:fd080b6075496b05bb5ae6",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "sushi-man-77682",
+          "configurations": {
+            "android": "1:194502033683:android:fd080b6075496b05bb5ae6",
+            "ios": "1:194502033683:ios:f5d2c9a58a14963ebb5ae6",
+            "macos": "1:194502033683:ios:f5d2c9a58a14963ebb5ae6",
+            "web": "1:194502033683:web:e746021f9c54c7b4bb5ae6",
+            "windows": "1:194502033683:web:c182af584fba719cbb5ae6"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "indexes": [
+      {
+        "collectionGroup": "orders",
+        "queryScope": "COLLECTION",
+        "fields": [
+          {
+            "fieldPath": "userId",
+            "order": "ASCENDING"
+          },
+          {
+            "fieldPath": "status",
+            "order": "ASCENDING"
+          },
+          {
+            "fieldPath": "orderDate",
+            "order": "DESCENDING"
+          }
+        ]
+      }
+    ]
+  }
+}

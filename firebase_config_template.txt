@@ -1,0 +1,32 @@
+# Firebase Configuration Template
+# 
+# This file contains placeholder Firebase configuration.
+# You need to create a Firebase project and get your own credentials.
+#
+# Steps:
+# 1. Go to https://console.firebase.google.com
+# 2. Create a new project or select existing one
+# 3. Add a Flutter app to your project
+# 4. Download the configuration files:
+#    - For Android: google-services.json → Place in android/app/
+#    - For iOS: GoogleService-Info.plist → Place in ios/Runner/
+# 5. Enable Authentication (Email/Password) in Firebase Console
+# 6. Enable Cloud Firestore in Firebase Console
+# 7. Set up Firestore security rules (see README.md)
+#
+# For FlutterFire CLI setup (recommended):
+# 1. Install FlutterFire CLI: dart pub global activate flutterfire_cli
+# 2. Run: flutterfire configure
+# 3. Select your Firebase project
+# 4. Follow the prompts
+
+# This will automatically:
+# - Configure your Flutter app with Firebase
+# - Generate firebase_options.dart file
+# - Set up native configuration files
+
+# If you're using FlutterFire CLI, uncomment and use this in main.dart:
+# import 'firebase_options.dart';
+# await Firebase.initializeApp(
+#   options: DefaultFirebaseOptions.currentPlatform,
+# );
