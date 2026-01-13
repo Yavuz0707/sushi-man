@@ -5,13 +5,10 @@
 ![Flutter](https://img.shields.io/badge/Flutter-3.2.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-Cloud-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **Profesyonel, production-ready bir Flutter mobil uygulaması**
 
 Firebase backend ile entegre, tam kapsamlı sushi teslimat platformu
-
-[English](README_EN.md) | **Türkçe**
 
 </div>
 
@@ -32,7 +29,6 @@ Firebase backend ile entegre, tam kapsamlı sushi teslimat platformu
 - [Güvenlik](#-güvenlik)
 - [Test Hesapları](#-test-hesapları)
 - [Katkıda Bulunma](#-katkıda-bulunma)
-- [Lisans](#-lisans)
 
 ---
 
