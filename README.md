@@ -6,7 +6,7 @@
 ![Firebase](https://img.shields.io/badge/Firebase-Cloud-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-**Profesyonel, production-ready bir Flutter mobil uygulaması.**
+**Profesyonel, production-ready bir Flutter mobil uygulaması**
 
 Firebase backend ile entegre, tam kapsamlı sushi teslimat platformu.
 
