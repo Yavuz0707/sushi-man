@@ -8,7 +8,7 @@
 
 **Profesyonel, production-ready bir Flutter mobil uygulaması**
 
-Firebase backend ile entegre, tam kapsamlı sushi teslimat platformu.
+Firebase backend ile entegre, tam kapsamlı sushi teslimat platformu..
 
 </div>
 
